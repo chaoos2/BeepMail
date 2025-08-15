@@ -24,7 +24,7 @@ System Requirements:
 - 50MB RAM, 20MB disk space
 - Internet connection for updates
 
-Installation: Extract ZIP and run BeepMail.exe
+Installation: Extract ZIP and run BeepMail.exe Installer
 
 ---
 
